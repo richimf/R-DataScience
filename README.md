@@ -5,9 +5,3 @@
 #### Getting Started
 * Breve introducción a R [Gettring Started](INTRO.md)
 
-
-
-
-
-
-
